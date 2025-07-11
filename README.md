@@ -55,16 +55,16 @@
 
 ### 🔥 Featured Projects
 
-- 🔌 [ionic-sqlite-plugin](https://github.com/fabulousman12/ionic-sqlite-plugin): Custom SQLite Cordova plugin for offline Ionic React apps
-- 💬 [chat-app](https://github.com/fabulousman12/chat-app): Real-time WebSocket chat with React + Express + JWT auth
-- 🧰 [dockerized-app-template](https://github.com/fabulousman12/dockerized-app-template): Template for containerized full-stack apps
-
+- 🔌 [Drum_machine](https://github.com/fabulousman12/fcc_drum_machine): A simple App to create Music create in free time 
+- 💬 [chat-app](https://github.com/fabulousman12/chat-app): Real-time WebSocket chat with Ionic Capacitor React + Express + JWT auth + Mongo and more
+- 🧰 [A news App](https://github.com/fabulousman12/news_mokey): An react app which fetch from Api and shows news from around world (one of the early projects of mine)
+- 💀 [Dungen Game](https://github.com/fabulousman12/dungen_game): A simple game using basic html css js
 ---
 
 ### 📫 Connect with Me
 
 - 📘 [Facebook – Jit Chakraborty](https://www.facebook.com/share/1JMdMsGhdE/)
-- 📸 [Instagram – @jit_.chakrabroty](https://www.instagram.com/jit_.chakrabroty/)
+- 📸 [Instagram – @jit_.chakrabroty](https://www.instagram.com/jit_.chakraborty?igsh=MjhyNWltejM5b2l5)
 - 🌐 Portfolio site: *coming soon*
 - 📬 Email: *add later*
 
