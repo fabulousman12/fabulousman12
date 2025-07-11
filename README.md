@@ -66,7 +66,7 @@
 - 📘 [Facebook – Jit Chakraborty](https://www.facebook.com/share/1JMdMsGhdE/)
 - 📸 [Instagram – @jit_.chakrabroty](https://www.instagram.com/jit_.chakraborty?igsh=MjhyNWltejM5b2l5)
 - 🌐 Portfolio site: *coming soon*
-- 📬 Email: *add later*
+
 
 ---
 
