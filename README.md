@@ -56,7 +56,7 @@
 ### 🔥 Featured Projects
 
 - 🔌 [Drum_machine](https://github.com/fabulousman12/fcc_drum_machine): A simple App to create Music create in free time 
-- 💬 [chat-app](https://github.com/fabulousman12/chat-app): Real-time WebSocket chat with Ionic Capacitor React + Express + JWT auth + Mongo and more
+- 💬 [Echoid](https://github.com/fabulousman12/Echoid): Real-time WebSocket chat with Ionic Capacitor React + Express + JWT auth + Mongo and more
 - 🧰 [A news App](https://github.com/fabulousman12/news_mokey): An react app which fetch from Api and shows news from around world (one of the early projects of mine)
 - 💀 [Dungen Game](https://github.com/fabulousman12/dungen_game): A simple game using basic html css js
 ---
