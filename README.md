@@ -67,7 +67,7 @@
 - 📸 [Instagram – @jit_.chakrabroty](https://www.instagram.com/jit_.chakraborty?igsh=MjhyNWltejM5b2l5)
 - 🌐 [Portfolio site: ](https://spacediary.netlify.app/)
 
-
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/Fabulousman)
 ---
 
 ### 💬 Quote
